@@ -1,10 +1,10 @@
 {
-  "id": "dndbeyond-character-sheet",
-  "title": "DNDBeyond Character Sheet for 5E",
+  "id": "dndbeyond-character-sheet-scroll-fix",
+  "title": "DNDBeyond Character Sheet for 5E (with scroll fix)",
   "description": "This module adds an additional character sheet inspired by DNDBeyond and the Obsidian character sheet.",
   "authors": [
     {
-      "name": "Jan Ole Peek (ChalkOne)",
+      "name": "Jan Ole Peek (ChalkOne), TN (scroll fix)",
       "flags": {}
     }
   ],
@@ -13,8 +13,8 @@
     "verified": "11.309",
     "maximum": "11"
   },
-  "url": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet",
-  "version": "11.230.5",
+  "url": "https://github.com/tnarv/fvtt-dndbeyond-character-sheet",
+  "version": "11.230.6",
   "esmodules": [
     "/dndbeyond-character-sheet.js"
   ],
@@ -34,6 +34,6 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-dndbeyond-character-sheet/master/module.json",
-  "download": "https://github.com/jopeek/fvtt-dndbeyond-character-sheet/archive/master.zip"
+  "manifest": "https://raw.githubusercontent.com/tnarv/fvtt-dndbeyond-character-sheet/master/module.json",
+  "download": "https://github.com/tnarv/fvtt-dndbeyond-character-sheet/archive/master.zip" 
 }
